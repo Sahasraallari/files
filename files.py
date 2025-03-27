@@ -9,3 +9,4 @@ file1.close()
 file2 = open("abc.txt ","a")
 file2.write( " I love coding i am learning python")
 file2.close
+
