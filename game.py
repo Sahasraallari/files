@@ -17,7 +17,7 @@ def main():
             print("Thanks for playing")
             break
         if Player_choice not in[ 'rock','paper','scissors']:
-            print(" Invald choice,try again.")
+            print(" Invalid choice,try again.")
             continue
         computer_choice = computer()
         print(f"Computer choose:{computer_choice}")
